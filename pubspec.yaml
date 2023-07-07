@@ -16,7 +16,10 @@ dependencies:
   archive: ^3.1.2
   flutter_slidable: ^1.2.0
   path_provider_windows: ^2.0.0
-  share_plus: ^3.0.2
+  share_plus:
+    git:
+      url: https://github.com/daewu14/flutter-share-plus-3.1.0
+      ref: main
   intl: ^0.17.0
   url_launcher: ^6.0.7
 
